@@ -1,5 +1,6 @@
 # trainee-Day-1
 
+
 12 FACTOR APP:
 SO basically 12 factor app is a set of practises developed by Heroku(a cloud platform developer) for creating scalable,maintainable and portable web applications.
 1)Codebase-Each project should have a single codebase tracked in revision control. Multiple deployments should be made from the same codebase.
