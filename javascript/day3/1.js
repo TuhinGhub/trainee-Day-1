@@ -24,3 +24,5 @@ switch (ch) {
     default:
         console.log("Invalid choice");
 }
+
+
