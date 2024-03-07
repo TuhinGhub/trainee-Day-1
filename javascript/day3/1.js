@@ -1,3 +1,4 @@
+//calculator for user
 const a = parseFloat(prompt("Enter the first number"));
 const b = parseFloat(prompt("Enter the second number"));
 console.log("Enter choice: PRESS 1 for addition, 2 for subtraction, 3 for multiplication, 4 for division");
