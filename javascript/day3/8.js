@@ -1,3 +1,4 @@
+//Write a program to dispaly number from 1-20 using all types of loops
 console.log("using while loop");
 let i = 1;
 while (i <= 20) {

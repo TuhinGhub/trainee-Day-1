@@ -1,3 +1,15 @@
+//Write a program to display Diamond Pattern
+
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *
+// * * * *
+// * * *
+// * *
+//  *
+
 const rows = 5;
 const mid = Math.ceil(rows / 2);
 for (let i = 1; i <= mid; i++) {
