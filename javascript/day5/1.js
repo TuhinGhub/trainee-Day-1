@@ -1,3 +1,4 @@
+//Write a program to iterate over object.
 function iterateObject(obj){
     for  (let key in obj) {
         console.log("key:"+key+" Value:"+obj[key])
