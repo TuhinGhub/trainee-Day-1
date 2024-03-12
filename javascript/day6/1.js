@@ -1,3 +1,6 @@
+//Create a class BankAccount with properties balance and owner and methods deposit(), withdraw(), and displayBalance().
+
+
 class BankAccount {
  constructor(owner,balance=0){
    this.owner=owner;
