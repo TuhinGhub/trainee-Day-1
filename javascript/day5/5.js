@@ -13,7 +13,7 @@ const obj = {
  };
  
  
- function flattenObject(obj, prefix = '') {
+ const flattenObject=(obj, prefix = '')=> {
     let flatObj = {};
     for (let key in obj) {
       let value = obj[key];
