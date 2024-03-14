@@ -1,5 +1,5 @@
 //Write a program to iterate over object.
-function iterateObject(obj){
+const iterateObject=(obj)=>{
     for  (let key in obj) {
         console.log("key:"+key+" Value:"+obj[key])
     }

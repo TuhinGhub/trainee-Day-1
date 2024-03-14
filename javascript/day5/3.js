@@ -6,7 +6,5 @@ let arr = [
     { id: 2, name: 'Bob' },
     { id: 3, name: 'Charlie' }
   ];
-    for (let i = 0; i < arr.length; i++) {
-      delete arr[i].id;
-    }
+  arr.forEach(item => delete item.id);
   console.log(arr);
