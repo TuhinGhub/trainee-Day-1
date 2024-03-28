@@ -11,7 +11,7 @@ const add=(a,b)=>{
 }
 
 const subtract=(a,b)=>{
-    let d=_.add(a,b);
+    let d=_.subtract(a,b);
     return d;
 }
 
